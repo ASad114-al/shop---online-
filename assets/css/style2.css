@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+
+
+
+
+nav
+{
+    height: 76px;
+   border-bottom: 1px solid  #666;
+   
+   margin: 0;
+}
+
+.nav-wrapper
+{
+  padding-left: 10%;
+    
+  margin: 2%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+
+.nav-wrapper ul li a:hover
+{
+    color: #337ab7;
+}
+.nav-wrapper a
+{
+    
+    text-decoration: none;
+}
+.logo 
+{
+    color: #666;
+    font-family: 'Raleway', sans-serif; 
+    font-size: 3rem;
+}
+
+.logo:hover
+{
+    columns: #333;
+}
+ul
+{
+    list-style: none;
+    float:right;
+    margin: 0;
+    padding: 0;
+    color: #333 ;
+  
+}
+li a
+{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+   /*  display: inline-block; */
+    color:  #333;
+    text-align: center;
+    padding: 14px 16px;
+}
+li
+{
+    float: left;
+    
+}
+article h2
+{
+ display: flex;
+ justify-content: center;
+ font-size: 3rem;
+ color: #865a56;
+}
+
+
+article img
+{
+    margin-left: 10%;
+    margin-bottom: 20%;
+    
+}
+
+
+#font
+ {
+     font-size: 3rem;
+    
+     font-family: 'Raleway', sans-serif;
+
+ }
+
+
+
+ #font_nav
+ {
+    font-size: 3rem;
+    font-family: 'Piedra', cursive;
+
+ }
+
+ #card_1
+ {
+     margin-left: 10%;
+ }
+ #card_1 img
+ {
+    width: 90%;
+ }
+ #card_2
+ {
+     margin-left: 40%;
+     margin-top: -30%;
+ }
+ #card_3
+ {
+     margin-left: 70%;
+     margin-top: -60%;
+ }
+ #card_3 img
+ {
+     width: 90%;
+ }
+ #card_2 img
+ {
+     width: 80%;
+ }
+
+
+ #pries
+ {
+     text-decoration: line-through;
+ }
+ #pries_color
+ {
+     color: red;
+ }
+
+
+footer {
+    background: #337ab7;
+    color: #fff;
+    margin-top: 20%;
+}
+footer p, footer ul  {
+    display: inline-block;
+    width: 33%;
+    margin: 0;
+    padding: 0;
+    
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+footer li {
+ display: inline-block;
+ width: 30%;
+
+}
+footer li a
+{
+    color: #fff; 
+}
+footer p:nth-of-type(2) {
+    text-align: center;
+}

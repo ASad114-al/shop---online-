@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+/* font-family: 'Raleway', sans-serif; */
+/* Headerhöhe:76px
+Logofarbe: #666
+Logofarbe in hover: #333
+Menüfarbe: #333 
+Menüfarbe in hover: #337ab7 */
+
+.big
+{
+    font-size: 3rem;
+}
+nav
+{
+    height: 76px;
+   border-bottom: 1px solid  #666;
+   
+   margin: 0;
+}
+
+.nav-wrapper
+{
+  padding-left: 10%;
+    
+  margin: 2%;
+}
+
+
+
+.nav-wrapper ul li a:hover
+{
+    color: #337ab7;
+}
+.nav-wrapper a
+{
+    
+    text-decoration: none;
+}
+.logo 
+{
+    color: #666;
+    font-family: 'Raleway', sans-serif; 
+    font-size: 3rem;
+}
+
+.logo:hover
+{
+    columns: #333;
+}
+ul
+{
+    list-style: none;
+    float:right;
+    margin: 0;
+    padding: 0;
+    color: #333 ;
+  
+}
+li a
+{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+   /*  display: inline-block; */
+    color:  #333;
+    text-align: center;
+    padding: 14px 16px;
+}
+li
+{
+    float: left;
+    
+}
+
+.img-fluid
+{
+
+    width: 100%;
+    
+}
+
+
+.text-center_main-text
+{
+   text-align: center;
+    /* padding-left: 32%; */
+    padding-top: 20%;
+    font-size: 3rem;
+}
+.text_mainparg
+{
+    text-align: center;
+    /* padding-left: 35%; */
+    padding-top:-3%;
+    font-size: 2rem;
+}
+.button_los
+{
+     text-align: center;
+    padding-left: 2;
+    margin-left: 40%;
+    height: 40px;
+    width: 20%;
+}
+
+.button_los a
+{
+    font-size: 30px;
+    text-decoration: none;
+    color: #ccc;
+}
+.button_los:hover
+{
+    color:#ccc;
+}
+.button_los:hover.button_los:hover
+{
+    background: rgb(29, 20, 20);
+}
+
+
+
+
+
+article
+{
+    margin-bottom: 30%;
+}
+
+
+
+
+
+ .img-fluid2 img
+ {
+     width: 37%;
+     margin-top: 9%;
+     margin-left: 5%;
+ }
+
+
+
+ .img-fluid3 img
+ {
+    width: 38%;
+    height: 50%;
+    margin-left: 55%;
+    margin-top: -57%;
+    
+ }
+
+ #font
+ {
+     font-size: 3rem;
+    
+     font-family: 'Raleway', sans-serif;
+
+
+     margin-top: 5%;
+     margin-bottom: 3%;
+
+ }
+
+
+
+ #font_nav
+ {
+    font-size: 3rem;
+    
+    font-family: 'Raleway', sans-serif;
+ }
+ #span
+ {
+     font-size: 1.5rem;
+ }
+
+
+ #card_master
+
+ {
+     margin-left: 40%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ footer {
+    background: #337ab7;
+    color: #fff;
+}
+footer p, footer ul  {
+    display: inline-block;
+    width: 33%;
+    margin: 0;
+    padding: 0;
+    
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+footer li {
+ display: inline-block;
+ width: 30%;
+}
+footer li a
+{
+    color: #fff; 
+}
+footer p:nth-of-type(2) {
+    text-align: center;
+}
+.img_text
+{
+display: flex;
+justify-content: center;
+
+}
+.img_text h3
+{
+    margin-left: 20%;
+}
+
+.img-fluid4
+{
+    width: 30%;
+    margin-top: 10%;
+    margin-right: 10%;
+}
+  
